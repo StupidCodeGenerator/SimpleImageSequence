@@ -1,2 +1,1 @@
-# SimpleImageSequence
-A simple image sequence editor
+当前问题：ISE只能用散图来拼动画。现在需要和TexturePacker导出的SpriteSheet结合起来。所以他需要一个SpriteSheet的读取器，这样才能满足要求
